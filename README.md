@@ -33,7 +33,7 @@ Tenho experiência como analista de suporte técnico com enfase em redes e infra
 [![Linkedin Badge](https://img.shields.io/badge/-Joabe%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabe-santos)](https://www.linkedin.com/in/joabe-santos/)
 [![Outlook Badge](https://img.shields.io/badge/-joabe.santos01@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:joabe.santos01@fatec.sp.gov.br)
 [![Gmail Badge](https://img.shields.io/badge/-jbencao37@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jbencao37@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-+5511973658018-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://http://wa.me/5511973658018)
+[![Whatsapp Badge](https://img.shields.io/badge/-+5511973658018-25D366?style=flat-square&logo=whatsapp&logoColor=white)](wa.me/5511973658018)
 [![Github Badge](https://img.shields.io/badge/-J0BS013-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0BS013)](https://github.com/J0BS013)
 
 

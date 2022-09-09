@@ -1,38 +1,22 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, Bem vindo(a) ao meu perfil!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, welcome to my Github!
 
-Meu nome é Joabe, tenho 20 anos e resido na região metropolitana de São Paulo. Estudo Análise e desenvolvimento de sistemas na FATEC e sou formado em Informática pela ETEC.
+My name is Joabe, I am 22 years old and live in the metropolitan region of São Paulo. I graduated in Systems Analysis and Development at FATEC, Computing at ETEC, and I am currently taking a specializationcourse in Applied Statistics.
+I have experience in the data area, currently working as a Data Analyst at BEES | Anheuser-Busch InBev, my duty is to show paths and draw insights through data.
 
-Tenho experiência como analista de suporte técnico com enfase em redes e infraestrutura; sou entusiasta de Data Science e estudo bibliotecas Python para análise de dados.
 
-----
-## :computer: Habilidades
-* Desenvolvimento : Python , SQL.
-* Banco de Dados: SQLite, SQLServer, MySQL.
-* Agile: Scrum
-* Versionamento: Git, Github.
-* Pacote Office: Completo.
-* Sistemas Operacionais: Linux, Windows.
-* Outros: Jupyter Notebook, Anaconda, Visual Studio Code, PyCharm.
+## :computer: Skills
 
-## :books: Aprendendo
-* Data Science : Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
-* Banco de Dados: MongoDB, PostgreSQL.
-* Data visualization: Power BI.
-* Virtualização: Docker.
-* Matemática : Algebra Linear, Modelagem de distribuições de dados, Probabilidade.
+* Programming Language: Python (and Data Science libraries).
+* SQL DB: SQLServer, Oracle, SQLite.
+* NoSQL DB: MongoDB.
+* Data Platform: Snowflake.
+* Code Versioning: Git, GitLab, Github.
+* Dataviz: PowerBI, Metabase, Mode.
 
-## :thought_balloon: Interesses
-* Desenvolvimento : R.
-* Data Science : Deep Learning, Keras, Pytorch.
-* Banco de Dados: Oracle, Redis.
-* Data visualization: Tableau.
-* Cloud Computing: Amazon Web Services, Azure.
 
-## :iphone: Onde me encontrar
+## :iphone: Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joabe%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabe-santos)](https://www.linkedin.com/in/joabe-santos/)
 [![Outlook Badge](https://img.shields.io/badge/-joabe.santos01@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:joabe.santos01@fatec.sp.gov.br)
 [![Gmail Badge](https://img.shields.io/badge/-jbencao37@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jbencao37@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-J0BS013-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0BS013)](https://github.com/J0BS013)
-
-

@@ -1,21 +1,56 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, welcome to my Github!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, welcome to my Github!
 
-My name is Joabe, I am 23 years old and live in the metropolitan region of São Paulo. I graduated in Systems Analysis and Development at FATEC, Computing at ETEC, and I am currently taking a specializationcourse in Applied Statistics.
-I have experience in the data area, currently working as a Data Analyst at BEES | Anheuser-Busch InBev, my duty is to show paths and draw insights through data.
+My name is **Joabe Santos**, Data Analyst and I live in São Paulo, Brazil.  
 
+I turn **data into actionable insights** to drive growth for the world's largest brewery. I have experience in **building and optimizing data pipelines** with **Databricks and PySpark**, developing **interactive dashboards** in **Power BI** for strategic decision-making.  
 
-## :computer: Skills
+With a solid background in **Systems Analysis and Development (FATEC)** and a **specialization in Applied Statistics**, I have in-depth knowledge of **Business Intelligence, Python, SQL, and cloud tools such as Azure**.  
 
-- Programming Language: Python (and Data Science libraries).
-- SQL DB: SQLServer, Oracle, SQLite.
-- NoSQL DB: MongoDB.
-- Data Platform: Snowflake.
-- Code Versioning: Git, GitLab, Github.
-- Dataviz: PowerBI, Metabase, Mode.
+I'm always looking for **challenges and growth opportunities**, and I'm committed to applying my expertise in **project management, strategy, and data analysis** to drive the success of organizations.  
 
+---
 
-## :iphone: Where to find me
+## 🛠️ **Skills & Technologies**  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joabe%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joabe-santos)](https://www.linkedin.com/in/joabe-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-jbencao37@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jbencao37@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-J0BS013-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/J0BS013)](https://github.com/J0BS013)
+### 🖥️ **Programming & Data Processing**
+- 🐍 **Python** (Pandas, NumPy, SciPy, Scikit-Learn)
+- 🔥 **PySpark** (Big Data processing)
+- 🗄️ **SQL** (SQL Server, Oracle, SQLite)
+- 🏠 **NoSQL** (MongoDB)
+
+### ☁️ **Data & Cloud Platforms**
+- 🚀 **Databricks**
+- ❄️ **Snowflake**
+- ☁️ **Azure**
+- ☁️ **AWS**
+- ⚡ **dbt (Data Build Tool)**
+
+### 📊 **Data Visualization & Business Intelligence**
+- 📈 **Power BI**
+- 📊 **Qlik**
+- 📉 **Tableau**
+- 📊 **Metabase**
+
+### 🤖 **Machine Learning & Statistics**
+- 📡 **Machine Learning**
+- 📏 **Applied Statistics**
+- 🔬 **Data Science Techniques**
+
+### 🔗 **Version Control & Collaboration**
+- 🔄 **Git, GitHub, GitLab**
+- 🎯 **Scrum & Agile Methodologies**
+
+### 💼 **Experience & Project Management**
+- 📊 **Data Analysis & Strategy**
+- 📈 **Business Intelligence & Reporting**
+
+---
+
+## 📫 **Where to find me**  
+
+🌐 **LinkedIn:** [Joabe Santos](https://www.linkedin.com/in/joabe-santos)  
+📧 **Email:** [jbencao37@gmail.com](mailto:jbencao37@gmail.com)  
+🐙 **GitHub:** [J0BS013](https://github.com/J0BS013)  
+
+---
+

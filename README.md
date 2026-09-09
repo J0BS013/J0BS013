@@ -48,6 +48,20 @@ FATEC São Paulo (2019 – 2021)
 **Technical Degree in Informatics**  
 ETEC São Paulo (2016 – 2017)  
 
+## 🚀 Featured Projects
+
+- **[Subscription Analytics with dbt + DuckDB](https://github.com/J0BS013/subscription-analytics-dbt)**  
+  Production-style subscription analytics pipeline with typed staging, MRR bridge, NRR, fixed-denominator cohort retention, SCD Type 2 snapshots, automated data-quality tests and GitHub Actions CI.
+
+- **[Starbucks Promo Effectiveness Analysis](https://github.com/J0BS013/starbucks-promo-effectiveness-analysis)**  
+  Customer-offer attribution analysis with temporal eligibility rules, controlled exposure logic and causal framing.
+
+- **[Retailer Segmentation: RFM & Clustering](https://github.com/J0BS013/retailer-segmentation-rfm-clustering)**  
+  Reproducible customer segmentation pipeline using RFM metrics, clustering and automated tests.
+
+- **[Hevy Workout ETL Pipeline](https://github.com/J0BS013/hevy-workout-etl-pipeline)**  
+  Reliable API ingestion pipeline with retries, timeouts, fail-fast behavior and atomic Parquet outputs.
+
 ---
 
 ## 🌍 Additional Information

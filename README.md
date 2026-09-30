@@ -1,8 +1,8 @@
-## Joabe Santos | Senior Data Analyst & Analytics Engineer
+## Joabe Santos | Decision Scientist & Analytics Engineer
 
-Senior Data Analyst and Analytics Engineer with proven experience designing scalable data platforms, building reliable data pipelines, and delivering high-impact insights in global environments.
+Decision Scientist and Analytics Engineer with proven experience designing scalable data platforms, building reliable data pipelines, and delivering high-impact insights in global environments.
 
-Currently working as an Associate Decision Scientist at Capgemini (Farmers Insurance), operating at the intersection of analytics engineering, data modeling, and business strategy.
+Currently working as an Associate Decision Scientist at Capgemini, supporting a global insurance client at the intersection of analytics engineering, data modeling, and business strategy.
 
 I specialize in transforming complex data into trusted, actionable insights that drive decision-making across cross-functional and international teams.
 
@@ -12,14 +12,14 @@ Strong expertise in SQL, Python, and modern data stack tools, with a focus on da
 
 ## 🚀 Featured Projects
 
-- **[Marketplace Event Lakehouse](https://github.com/J0BS013/marketplace-event-lakehouse)**
-  Replay-safe marketplace event pipeline with PySpark, Delta Lake and Prefect, including quarantine, SCD Type 2 dimensions, sequence-aware funnels, revenue reconciliation, observability and measured benchmarks.
+- **[Thin-File Credit Decision Engine](https://github.com/J0BS013/thin-file-credit-decision-engine)** · **[Live demo →](https://thin-file-credit-decision.streamlit.app/)**<br>
+  Synthetic credit decision system with point-in-time features, temporal validation, default, fraud and take-up models, expected-value policy optimization and champion/challenger backtesting.
 
 - **[Subscription Analytics with dbt + DuckDB](https://github.com/J0BS013/subscription-analytics-dbt)** · **[Live demo →](https://subscription-analytics-dbt.streamlit.app/)**<br>
   Production-style subscription analytics pipeline with typed staging, MRR bridge, NRR, fixed-denominator cohort retention, SCD Type 2 snapshots, automated data-quality tests and GitHub Actions CI.
 
-- **[Thin-File Credit Decision Engine](https://github.com/J0BS013/thin-file-credit-decision-engine)** · **[Live demo →](https://thin-file-credit-decision.streamlit.app/)**<br>
-  Synthetic credit decision system with point-in-time features, temporal validation, default, fraud and take-up models, expected-value policy optimization and champion/challenger backtesting.
+- **[Marketplace Event Lakehouse](https://github.com/J0BS013/marketplace-event-lakehouse)**
+  Replay-safe marketplace event pipeline with PySpark, Delta Lake and Prefect, including quarantine, SCD Type 2 dimensions, sequence-aware funnels, revenue reconciliation, observability and measured benchmarks.
 
 - **[Starbucks Promo Effectiveness Analysis](https://github.com/J0BS013/starbucks-promo-effectiveness-analysis)**  
   Customer-offer attribution analysis with temporal eligibility rules, controlled exposure logic and causal framing.
@@ -31,7 +31,6 @@ Strong expertise in SQL, Python, and modern data stack tools, with a focus on da
   Reliable API ingestion pipeline with retries, timeouts, fail-fast behavior and atomic Parquet outputs.
 
 ---
-
 ## 🛠️ Tech Stack & Expertise
 
 ### 🏗️ Analytics Engineering

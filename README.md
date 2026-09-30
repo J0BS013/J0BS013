@@ -8,6 +8,8 @@ I specialize in transforming complex data into trusted, actionable insights that
 
 Strong expertise in SQL, Python, and modern data stack tools, with a focus on data reliability, performance, and analytics scalability.
 
+**Portfolio:** [Decision Science & Analytics Engineering case studies](https://j0bs013.github.io/joabe-santos-portfolio/)
+
 ---
 
 ## 🚀 Featured Projects

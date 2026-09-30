@@ -15,10 +15,10 @@ Strong expertise in SQL, Python, and modern data stack tools, with a focus on da
 - **[Marketplace Event Lakehouse](https://github.com/J0BS013/marketplace-event-lakehouse)**
   Replay-safe marketplace event pipeline with PySpark, Delta Lake and Prefect, including quarantine, SCD Type 2 dimensions, sequence-aware funnels, revenue reconciliation, observability and measured benchmarks.
 
-- **[Subscription Analytics with dbt + DuckDB](https://github.com/J0BS013/subscription-analytics-dbt)**  
+- **[Subscription Analytics with dbt + DuckDB](https://github.com/J0BS013/subscription-analytics-dbt)** · **[Live demo →](https://subscription-analytics-dbt.streamlit.app/)**<br>
   Production-style subscription analytics pipeline with typed staging, MRR bridge, NRR, fixed-denominator cohort retention, SCD Type 2 snapshots, automated data-quality tests and GitHub Actions CI.
 
-- **[Thin-File Credit Decision Engine](https://github.com/J0BS013/thin-file-credit-decision-engine)**
+- **[Thin-File Credit Decision Engine](https://github.com/J0BS013/thin-file-credit-decision-engine)** · **[Live demo →](https://thin-file-credit-decision.streamlit.app/)**<br>
   Synthetic credit decision system with point-in-time features, temporal validation, default, fraud and take-up models, expected-value policy optimization and champion/challenger backtesting.
 
 - **[Starbucks Promo Effectiveness Analysis](https://github.com/J0BS013/starbucks-promo-effectiveness-analysis)**  
@@ -27,7 +27,7 @@ Strong expertise in SQL, Python, and modern data stack tools, with a focus on da
 - **[Retailer Segmentation: RFM & Clustering](https://github.com/J0BS013/retailer-segmentation-rfm-clustering)**  
   Reproducible customer segmentation pipeline using RFM metrics, clustering and automated tests.
 
-- **[Hevy Workout ETL Pipeline](https://github.com/J0BS013/hevy-workout-etl-pipeline)**  
+- **[Hevy Workout ETL Pipeline](https://github.com/J0BS013/hevy-workout-etl-pipeline)** · **[Live demo →](https://hevy-workout-dashboard-j0bs013.streamlit.app/)**<br>
   Reliable API ingestion pipeline with retries, timeouts, fail-fast behavior and atomic Parquet outputs.
 
 ---

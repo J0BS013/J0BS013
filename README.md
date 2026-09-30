@@ -12,8 +12,14 @@ Strong expertise in SQL, Python, and modern data stack tools, with a focus on da
 
 ## 🚀 Featured Projects
 
+- **[Marketplace Event Lakehouse](https://github.com/J0BS013/marketplace-event-lakehouse)**
+  Replay-safe marketplace event pipeline with PySpark, Delta Lake and Prefect, including quarantine, SCD Type 2 dimensions, sequence-aware funnels, revenue reconciliation, observability and measured benchmarks.
+
 - **[Subscription Analytics with dbt + DuckDB](https://github.com/J0BS013/subscription-analytics-dbt)**  
   Production-style subscription analytics pipeline with typed staging, MRR bridge, NRR, fixed-denominator cohort retention, SCD Type 2 snapshots, automated data-quality tests and GitHub Actions CI.
+
+- **[Thin-File Credit Decision Engine](https://github.com/J0BS013/thin-file-credit-decision-engine)**
+  Synthetic credit decision system with point-in-time features, temporal validation, default, fraud and take-up models, expected-value policy optimization and champion/challenger backtesting.
 
 - **[Starbucks Promo Effectiveness Analysis](https://github.com/J0BS013/starbucks-promo-effectiveness-analysis)**  
   Customer-offer attribution analysis with temporal eligibility rules, controlled exposure logic and causal framing.
